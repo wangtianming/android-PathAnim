@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="org.sun.simple.OptionActivity">
+
+    <EditText
+        android:inputType="number"
+        android:hint="startX"
+        android:id="@+id/edit_startX"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:hint="startY"
+        android:id="@+id/edit_startY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:hint="ReferX"
+        android:id="@+id/edit_referX"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:hint="ReferY"
+        android:id="@+id/edit_referY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:hint="endX"
+        android:id="@+id/edit_endX"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="number"
+        android:hint="endY"
+        android:id="@+id/edit_endY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:inputType="number"
+        android:onClick="optionOk"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
