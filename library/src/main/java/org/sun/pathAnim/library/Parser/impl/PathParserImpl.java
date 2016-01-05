@@ -11,7 +11,7 @@ import com.nineoldandroids.animation.TypeEvaluator;
 import org.sun.pathAnim.library.Parser.PathParser;
 
 /**
- * Created by 王天明 on 2016/1/4 0004.
+ * Created by wangtianming on 2016/1/4 0004.
  */
 public final class PathParserImpl implements PathParser {
 

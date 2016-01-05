@@ -9,7 +9,7 @@ import org.sun.pathAnim.library.factory.PathParserFactory;
 import org.sun.pathAnim.library.factory.impl.PathParserDefaultFactory;
 
 /**
- * Created by 王天明 on 2016/1/5 0005.
+ * Created by wangtianming on 2016/1/5 0005.
  */
 public class PathAnimation extends Animation {
 

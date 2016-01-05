@@ -23,7 +23,7 @@ import org.sun.pathAnim.library.factory.impl.PathParserDefaultFactory;
 import java.util.ArrayList;
 
 /**
- * Created by 王天明 on 2016/1/5 0005.
+ * Created by wangtianming on 2016/1/5 0005.
  */
 public final class PathAnim {
 

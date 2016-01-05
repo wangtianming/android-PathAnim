@@ -9,7 +9,7 @@ import com.nineoldandroids.animation.Animator;
 import com.nineoldandroids.animation.AnimatorListenerAdapter;
 
 /**
- * Created by 王天明 on 2016/1/5 0005.
+ * Created by wangtianming on 2016/1/5 0005.
  */
 public class PathAnimInject {
 
